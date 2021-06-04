@@ -1,0 +1,39 @@
+#all{
+	width: 1024px;
+	height: 1094px;
+	background-color: white;
+	border: solid;
+	padding: 0px 0px 0px 20px;
+	margin:auto;
+}
+#header{
+	width: 1000px;
+	height: 250px;
+	background-color: #2da2bf;
+	margin: 0px 0px 20px 0px;
+}
+#sidebar{
+	width: 250px;
+	height: 500px;
+	background-color: #2da2bf;
+	float: left;
+}
+#content{
+	width: 730px;
+	height: 500px;
+	background-color: #2da2bf;
+	float: right;
+	margin-right: 25px;
+}
+#footer{
+	width: 1000px;
+	height: 250px;
+	background-color: #2da2bf;
+	float: left;
+	margin: 20px 0px 0px 0px;
+}
+.h1{
+	text-align: center;
+	font-family: italic;
+	font-size: 40px;
+	color: white;
